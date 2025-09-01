@@ -1,4 +1,4 @@
-# Traffic_Sign_Detection
+# Traffic Sign Detection
 
 ## Dataset Link: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
